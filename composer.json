@@ -18,6 +18,7 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "ext-json": "*",
+        "davramenko/lightsaml": "dev-master",
         "litesaml/lightsaml": "^3.0",
         "socialiteproviders/manager": "~4.0"
     },
