@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/saml2",
+    "name": "davramenko/saml2",
     "description": "SAML2 Service Provider for Laravel Socialite",
     "keywords": [
         "laravel",
